@@ -16,7 +16,7 @@ public class Accounts {
     }
     public void credit( double amount )
     {
-        balance = balance*amount;
+        balance = balance/amount;
     }
     public void withdraw(double amount)
     {
