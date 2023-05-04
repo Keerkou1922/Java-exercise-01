@@ -42,6 +42,7 @@ public class Main {
         {
             System.out.println("Entered text has not k followed by zero or more r's");
         }
+        //hi
     }
 
 }
